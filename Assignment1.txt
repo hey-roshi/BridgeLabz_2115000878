@@ -1,0 +1,146 @@
+Assisted Problems 
+
+1. Welcome to Bridgelabz! 
+Write a program that prints "Welcome to Bridgelabz!" to the screen. 
+class welcome{
+    public static void main(String[]args){
+        System.out.print("Welcome to BreidgeLabz!");
+    }
+}
+
+
+2. Add Two Numbers 
+Write a program that takes two numbers as input from the user and prints their sum. 
+import java.util.*;
+class addition{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        System.out.println(a+b);
+    }
+}
+
+
+3. Celsius to Fahrenheit Conversion 
+Write a program that takes the temperature in Celsius as input and converts it to Fahrenheit using the formula:  Fahrenheit = (Celsius * 9/5) + 32. 
+import java.util.*;
+class celToFah{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Temperature in Celcius:");
+        int tempearture = sc.nextInt();
+        System.out.println("Temperature in Fahrenheit:"+(tempearture*9/5)+32);
+    }
+}
+
+
+4. Area of a Circle 
+Write a program to calculate the area of a circle. Take the radius as input and use the formula:  Area = π * radius^2. 
+import java.util.*;
+class areaOfCicle{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Radius to Calculate Area:");
+        int radius = sc.nextInt();
+        System.out.println("Area of Circle:"+3.14*radius*radius);
+    }
+}
+
+
+5. Volume of a Cylinder 
+Write a program to calculate the volume of a cylinder. Take the radius and height as inputs and use the formula:  Volume = π*radius^2*height.
+import java.util.*;
+class volOfCylinder{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Radius of Cylinder:");
+        int radius = sc.nextInt();
+        System.out.print("Enter Height of Cylinder:");
+        int height = sc.nextInt();
+        System.out.println("Volume of Cylinder:"+3.14*radius*radius*height);
+    }
+}
+
+
+Self Problems 
+1. Calculate Simple Interest 
+Write a program to calculate simple interest using the formula: Simple Interest = (Principal * Rate * Time) / 100. Take Principal, Rate, and Time as inputs from the user. 
+
+
+                         import java.util.*;
+class simpleInt{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Principle Amt:");
+        int amt = sc.nextInt();
+        System.out.print("Enter Interest Rate:");
+        int rate = sc.nextInt();
+        System.out.print("Enter Time Period:");
+        int time = sc.nextInt();
+        System.out.println("Simple Interes:"+(amt*rate*time)/100);
+    }
+}
+
+2. Perimeter of a Rectangle 
+Write a program to calculate the perimeter of a rectangle. Take the length and width as inputs and use the formula: Perimeter = 2 * (length + width). 
+import java.util.*;
+class periOfRect{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter length of Rectangle:");
+        int len = sc.nextInt();
+        System.out.print("Enter width of Rectangle:");
+        int wid = sc.nextInt();
+        System.out.println("Perimeter:"+(len+wid)*2);
+    }
+}
+
+3. Power Calculation 
+Write a program that takes two numbers as input: a base and an exponent, and prints the result of base raised to the exponent (without using loops or conditionals). 
+import java.util.*;
+class powCalc{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Base:");
+        int base = sc.nextInt();
+        System.out.print("Enter exponent:");
+        int expo = sc.nextInt();
+        System.out.println("Power of "+base+" is "+Math.pow(base,expo));
+    }
+}
+
+4. Calculate Average of Three Numbers 
+Write a program that takes three numbers as input from the user and prints their average.
+import java.util.*;
+class avgOfNumb{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter 1st Number:");
+        int num1 = sc.nextInt();
+        System.out.print("Enter 2nd Number:");
+        int num2 = sc.nextInt();
+        System.out.print("Enter 3rd Number:");
+        int num3 = sc.nextInt();
+        System.out.println("Average of Given Number is: "+(num1+num2+num3)/3);
+    }
+}
+5. Convert Kilometers to Miles 
+Write a program that takes the distance in kilometers as input from the user and converts it into miles using the formula:  Miles = Kilometers * 0.621371.
+
+import java.util.*;
+class kiloToMile{
+    public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter distance in Kilometer:");
+        int km = sc.nextInt();
+        System.out.println("Distance in Miles:"+km*0.621371);
+    }
+}
+
+
+
+
+
+
+
