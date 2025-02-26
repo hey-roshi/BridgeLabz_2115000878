@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10631e68-a2ec-43a1-a390-11d7ee8b2ca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Assignment35/.idea/Assignment35.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A35/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A35/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A35/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/AccessControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/BugReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/BugReports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/CacheResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/ComputationallyExpensive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/ImportantMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/JsonField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/JsonSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/LegacyAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/MaxLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/OverrideExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/OverrideExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/ProjectManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/RoleAllowed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/SuppressWarningsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/SuppressWarningsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/TaskInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/TaskManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/Todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/annotationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/annotationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/customCachingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/customCachingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/customSerilization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/customSerilization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/deprecatedExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/deprecatedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/importantMethodExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/importantMethodExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/logExecutionTimeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/maxAnnotationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/maxAnnotationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/repeatableAnnotationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/repeatableAnnotationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/roleBasedAccessControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/roleBasedAccessControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/todoAnnotationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment33/todoAnnotationExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2tZfCCIS7Akw16DxrxzGr2J6ln3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CSVToJSON.executor": "Run",
+    "Application.CarToJSON.executor": "Run",
+    "Application.CartoJSON.executor": "Run",
+    "Application.ExtractJSONFields.executor": "Run",
+    "Application.IPLCensorAnalyzer.executor": "Run",
+    "Application.JSONToXML.executor": "Run",
+    "Application.StudentJSON.executor": "Run",
+    "Application.databaseToJSON.executor": "Run",
+    "Application.filterJSONByAge.executor": "Run",
+    "Application.listToJSONArray.executor": "Run",
+    "Application.mergeJSON.executor": "Run",
+    "Application.mergeJSONFiles.executor": "Run",
+    "Application.mergeJSONfiles.executor": "Run",
+    "Application.readJSONKeysAndValues.executor": "Run",
+    "Application.readJSONKeysValues.executor": "Run",
+    "Application.validJSON.executor": "Run",
+    "Application.validateJSONSchema.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "26th__February",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.IPLCensorAnalyzer">
+    <configuration name="CSVToJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSVToJSON" />
+      <module name="A_35" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPLCensorAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IPLCensorAnalyzer" />
+      <module name="A_35" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONToXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JSONToXML" />
+      <module name="A_35" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="databaseToJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databaseToJSON" />
+      <module name="A_35" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeJSONfiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeJSONfiles" />
+      <module name="A_35" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IPLCensorAnalyzer" />
+        <item itemvalue="Application.databaseToJSON" />
+        <item itemvalue="Application.CSVToJSON" />
+        <item itemvalue="Application.JSONToXML" />
+        <item itemvalue="Application.mergeJSONfiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10631e68-a2ec-43a1-a390-11d7ee8b2ca0" name="Changes" comment="" />
+      <created>1740564389410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740564389410</updated>
+    </task>
+    <servers />
+  </component>
+</project>
